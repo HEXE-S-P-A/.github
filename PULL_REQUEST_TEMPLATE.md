@@ -1,5 +1,3 @@
-<!--- Titolo che dai un'idea della modifica che si svuole proporre -->
-
 ## Descrizione
 <!--- Descrizione in dettaglio della modifica -->
 
